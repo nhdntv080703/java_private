@@ -11,7 +11,7 @@ public class bai1 {
 		}
 		for (int i = 0; i < s.length(); i++) {
 			if (danhdau[s.charAt(i)] != 0 && s.charAt(i) != ' ') {
-				System.out.println(s.charAt(i) + ": " + danhdau[s.charAt(i)]);
+				System.out.println(s.charAt(i) + " : " + danhdau[s.charAt(i)]);
 				danhdau[s.charAt(i)] = 0;
 			}
 		}
