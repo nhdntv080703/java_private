@@ -6,8 +6,9 @@ import java.util.Scanner;
 
 public class showMenu {
     static Scanner sc = new Scanner(System.in);
-    List<Honey> honeyList = new ArrayList<>();
-    public void Menu() {
+    static List<Honey> honeyList = new ArrayList<>();
+    public static void main(String[] args) {
+        
         while (true) {
             System.out.println("1. Add Honey");
             System.out.println("2. Show all Honeys");
@@ -46,7 +47,7 @@ public class showMenu {
         }
     }
 
-    private void addHoney() {
+    private static void addHoney() {
         System.out.println("Please enter the Honey's ten: ");
         String ten = sc.nextLine();
         sc.nextLine();
@@ -64,7 +65,7 @@ public class showMenu {
         System.out.println("Honey added successfully!");
     }
 
-    private void showAllHoneys() {
+    private static void showAllHoneys() {
         System.out.println("id\tstatus");
         System.out.println("--------------------");
         for (Honey honey : honeyList) {
@@ -72,14 +73,14 @@ public class showMenu {
         }
     }
 
-    private void deleteHoneyById() {
+    private static void deleteHoneyById() {
         System.out.println("Please enter the Honey's id: ");
         String id = sc.nextLine();
         sc.nextLine();
 
         Honey targetHoney = null;
         for (Honey honey : honeyList) {
-            if (honey.getId() == id) {
+            if (honey.getId().equals(id)) {
                 targetHoney = honey;
                 break;
             }
@@ -93,14 +94,14 @@ public class showMenu {
         }
     }
 
-    private void editHoneyById() {
+    private static void editHoneyById() {
         System.out.println("Please enter the Honey's id: ");
         String id = sc.nextLine();
         sc.nextLine();
 
         Honey targetHoney = null;
         for (Honey honey : honeyList) {
-            if (honey.getId() == id) {
+            if (honey.getId().equals(id)) {
                 targetHoney = honey;
                 break;
             }
@@ -126,14 +127,14 @@ public class showMenu {
         }
     }
 
-    private void addFavoriteByHoneyId() {
+    private static void addFavoriteByHoneyId() {
         System.out.println("Please enter the Honey's id: ");
-        int id = sc.nextInt();
+        String id = sc.nextLine();
         sc.nextLine();
 
         Honey targetHoney = null;
         for (Honey honey : honeyList) {
-            if (honey.getId() == honeyId) {
+            if (honey.getId().equals(id)) {
                 targetHoney = honey;
                 break;
             }
@@ -156,9 +157,9 @@ public class showMenu {
         }
     }
 
-    private void sortHoneyByName() {
+    private static void sortHoneyByName() {
         honeyList.sort((h1, h2) -> h2.getTen().compareTo(h1.getTen()));
         System.out.println("Honeys sorted successfully!");
     }
 }
-}
+
