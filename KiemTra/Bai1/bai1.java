@@ -3,9 +3,7 @@ package KiemTra.Bai1;
 import java.util.Scanner;
 
 public class bai1 {
-    public static String removeCharAt(String s, int pos, int pos1) {
-        return s.substring(0, pos) + s.substring(pos1 + 1);
-    }
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
