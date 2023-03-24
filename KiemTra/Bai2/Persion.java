@@ -1,33 +1,51 @@
 package KiemTra.Bai2;
 
 public class Persion {
-    private String di;
-    private String dung;
-    private String ngu;
-    private String nam;
-    public String getDi() {
-        return di;
-    }
-    public void setDi(String di) {
-        this.di = di;
-    }
-    public String getDung() {
-        return dung;
-    }
-    public void setDung(String dung) {
-        this.dung = dung;
-    }
-    public String getNgu() {
-        return ngu;
-    }
-    public void setNgu(String ngu) {
-        this.ngu = ngu;
-    }
-    public String getNam() {
-        return nam;
-    }
-    public void setNam(String nam) {
-        this.nam = nam;
-    }
+    private String name;
+    private int age;
+    private String gender;
+    private String phone;
+
+    public Person() {
     
+    }
+
+    public Person(String name, int age, String gender, String phone) {
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+        this.phone = phone;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    } 
 }
