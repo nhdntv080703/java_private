@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>SỬA SINH VIÊN</h1>
+
+<form th:action="@{/user_put}" th:object="${list}" th:method="post">
+    <input type="hidden" th:field="*{id}">
+    <label>Nhập tài khoản người dùng :</label><br>
+    <input type="text" name="fullName" th:field="*{userName}"/><br/>
+    <label>Nhập mật khẩu người dùng :</label><br>
+    <input type="text" name="passWord" th:field="*{passWord}"/><br/>
+    <label>Nhập tên người dùng :</label><br>
+    <input type="text" name="fullName" th:field="*{fullName}"/><br/>
+    <input type="submit" value="UPDATE">
+</form>
+<script>
+
+</script>
+</body>
+</html>

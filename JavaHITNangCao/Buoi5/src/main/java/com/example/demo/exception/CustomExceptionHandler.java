@@ -1,0 +1,23 @@
+package com.example.demo.exception;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+import org.springframework.web.context.request.WebRequest;
+
+@RestControllerAdvice
+public class CustomExceptionHandler {
+
+    @ExceptionHandler(AlreadyExistsException.class)
+    public NotFoundException handleAlreadyExistsException(AlreadyExistsException ex, WebRequest request) {
+        System.out.println(ex.getMessage());
+        return new NotFoundException(ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+    }
+
+    @ExceptionHandler(NotFoundException.class)
+    public AlreadyExistsException handleNotFoundException(NotFoundException ex, WebRequest request) {
+        System.out.println(ex.getMessage());
+        return new AlreadyExistsException(ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+    }
+
+}
