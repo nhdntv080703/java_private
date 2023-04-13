@@ -78,13 +78,4 @@ public class UserController {
         return "redirect:/store";
     }
 
-//    @GetMapping("/user_patch")
-//    public String partialUser(){
-//        return "about1";
-//    }
-//
-//    @PostMapping("/user_patch/{id}")
-//    public void partialUpdateUser(@PathVariable("id") Long id, @RequestBody UserDTO partialUserDTO) {
-//        userService.partialUpdateUser(id, partialUserDTO);
-//    }
 }

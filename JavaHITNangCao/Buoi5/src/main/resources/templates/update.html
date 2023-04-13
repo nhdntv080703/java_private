@@ -9,11 +9,11 @@
 
 <form th:action="@{/user_put}" th:object="${list}" th:method="post">
     <input type="hidden" th:field="*{id}">
-    <label>Nhập tài khoản người dùng :</label><br>
+    <label>Tài khoản người dùng :</label><br>
     <input type="text" name="fullName" th:field="*{userName}"/><br/>
-    <label>Nhập mật khẩu người dùng :</label><br>
+    <label>Mật khẩu người dùng :</label><br>
     <input type="text" name="passWord" th:field="*{passWord}"/><br/>
-    <label>Nhập tên người dùng :</label><br>
+    <label>Tên người dùng :</label><br>
     <input type="text" name="fullName" th:field="*{fullName}"/><br/>
     <input type="submit" value="UPDATE">
 </form>

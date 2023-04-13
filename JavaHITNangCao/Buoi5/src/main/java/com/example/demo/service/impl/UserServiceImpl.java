@@ -54,11 +54,11 @@ public class UserServiceImpl implements UserService {
     @Override
     public ResponseEntity<UserEntity> updateUser(Long id, UserDTO userDTO) {
         Optional<UserEntity> userOptional = userRepository.findById(id);
-        UserEntity userEntity = userConverter.convertToEntity(userDTO);
         if (userOptional.isPresent()) {
             UserEntity existingUserEntity = userOptional.get();
-            existingUserEntity.setUserName(userEntity.getUserName());
-            existingUserEntity.setFullName(userEntity.getFullName());
+            existingUserEntity.setUserName(userDTO.getUserName());
+            existingUserEntity.setFullName(userDTO.getFullName());
+            existingUserEntity.setPassWord(userDTO.getPassWord());
             userRepository.save(existingUserEntity);
             return ResponseEntity.ok(existingUserEntity);
         } else {
@@ -77,6 +77,9 @@ public class UserServiceImpl implements UserService {
             }
             if (partialUserEntity.getFullName() != null) {
                 existingUserEntity.setFullName(partialUserEntity.getFullName());
+            }
+            if (partialUserEntity.getPassWord() != null) {
+                existingUserEntity.setPassWord(partialUserEntity.getPassWord());
             }
             userRepository.save(existingUserEntity);
             return ResponseEntity.ok(existingUserEntity);
