@@ -42,47 +42,47 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public ResponseEntity<UserEntity> createUser(UserDTO userDTO) {
+    public ResponseEntity<UserDTO> createUser(UserDTO userDTO) {
         UserEntity userEntity = userConverter.convertToEntity(userDTO);
         if (userRepository.findByUserName(userEntity.getUserName()) != null) {
             throw new AlreadyExistsException("UserEntity already exists with username " + userEntity.getUserName(), HttpStatus.ALREADY_REPORTED);
         }
         UserEntity createdUserEntity = userRepository.save(userEntity);
-        return ResponseEntity.status(HttpStatus.CREATED).body(createdUserEntity);
+        UserDTO createUserDTO = userConverter.convertToDto(createdUserEntity);
+        return ResponseEntity.status(HttpStatus.CREATED).body(createUserDTO);
     }
 
     @Override
-    public ResponseEntity<UserEntity> updateUser(Long id, UserDTO userDTO) {
+    public ResponseEntity<UserDTO> updateUser(Long id, UserDTO userDTO) {
         Optional<UserEntity> userOptional = userRepository.findById(id);
         if (userOptional.isPresent()) {
             UserEntity existingUserEntity = userOptional.get();
-            existingUserEntity.setUserName(userDTO.getUserName());
-            existingUserEntity.setFullName(userDTO.getFullName());
-            existingUserEntity.setPassWord(userDTO.getPassWord());
-            userRepository.save(existingUserEntity);
-            return ResponseEntity.ok(existingUserEntity);
+            existingUserEntity = userConverter.convertToEntity(userDTO);
+            UserEntity userEntity = userRepository.save(existingUserEntity);
+            UserDTO updateUserDTO = userConverter.convertToDto(userEntity);
+            return ResponseEntity.ok(updateUserDTO);
         } else {
             throw new NotFoundException("UserEntity not found with id " + id, HttpStatus.NOT_FOUND);
         }
     }
 
     @Override
-    public ResponseEntity<UserEntity> partialUpdateUser(Long id, UserDTO partialUserDTO) {
+    public ResponseEntity<UserDTO> partialUpdateUser(Long id, UserDTO partialUserDTO) {
         Optional<UserEntity> userOptional = userRepository.findById(id);
-        UserEntity partialUserEntity = userConverter.convertToEntity(partialUserDTO);
         if (userOptional.isPresent()) {
             UserEntity existingUserEntity = userOptional.get();
-            if (partialUserEntity.getUserName() != null) {
-                existingUserEntity.setUserName(partialUserEntity.getUserName());
+            if (partialUserDTO.getUserName() != null) {
+                existingUserEntity.setUserName(partialUserDTO.getUserName());
             }
-            if (partialUserEntity.getFullName() != null) {
-                existingUserEntity.setFullName(partialUserEntity.getFullName());
+            if (partialUserDTO.getFullName() != null) {
+                existingUserEntity.setFullName(partialUserDTO.getFullName());
             }
-            if (partialUserEntity.getPassWord() != null) {
-                existingUserEntity.setPassWord(partialUserEntity.getPassWord());
+            if (partialUserDTO.getPassWord() != null) {
+                existingUserEntity.setPassWord(partialUserDTO.getPassWord());
             }
-            userRepository.save(existingUserEntity);
-            return ResponseEntity.ok(existingUserEntity);
+            UserEntity userEntity = userRepository.save(existingUserEntity);
+            UserDTO updateUserDTO = userConverter.convertToDto(userEntity);
+            return ResponseEntity.ok(updateUserDTO);
         } else {
             throw new NotFoundException("UserEntity not found with id " + id, HttpStatus.NOT_FOUND);
         }

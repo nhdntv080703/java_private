@@ -22,18 +22,18 @@ public class UserAPI {
     }
 
     @PostMapping
-    public ResponseEntity<UserEntity> createUser(@RequestBody UserDTO userDTO) {
+    public ResponseEntity<UserDTO> createUser(@RequestBody UserDTO userDTO) {
         return userService.createUser(userDTO);
     }
 
     @PutMapping("/{id}")
-    public void updateUser(@PathVariable("id") Long id, @RequestBody UserDTO userDTO) {
-        userService.updateUser(id, userDTO);
+    public ResponseEntity<UserDTO> updateUser(@PathVariable("id") Long id, @RequestBody UserDTO userDTO) {
+        return userService.updateUser(id, userDTO);
     }
 
     @PatchMapping("/{id}")
-    public void partialUpdateUser(@PathVariable("id") Long id, @RequestBody UserDTO partialUserDTO) {
-        userService.partialUpdateUser(id, partialUserDTO);
+    public ResponseEntity<UserDTO> partialUpdateUser(@PathVariable("id") Long id, @RequestBody UserDTO partialUserDTO) {
+        return userService.partialUpdateUser(id, partialUserDTO);
     }
 
     @GetMapping("/search")

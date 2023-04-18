@@ -9,9 +9,9 @@ import java.util.List;
 public interface UserService {
     UserDTO getUserById(Long id);
     UserDTO findById(Long id);
-    ResponseEntity<UserEntity> createUser(UserDTO userDTO);
-    ResponseEntity<UserEntity> updateUser(Long id, UserDTO userDTO);
-    ResponseEntity<UserEntity> partialUpdateUser(Long id, UserDTO userDTO);
+    ResponseEntity<UserDTO> createUser(UserDTO userDTO);
+    ResponseEntity<UserDTO> updateUser(Long id, UserDTO userDTO);
+    ResponseEntity<UserDTO> partialUpdateUser(Long id, UserDTO userDTO);
     List<UserDTO> searchUsers(String fullName);
     List<UserDTO> findAll();
     void deleteUser(Long id);
