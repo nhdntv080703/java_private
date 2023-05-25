@@ -10,10 +10,6 @@ import java.util.List;
 @Table(name = "student")
 public class StudentEntity extends BaseEntity{
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-
     public StudentEntity(String name, String address) {
         this.name = name;
         this.address = address;
@@ -35,14 +31,6 @@ public class StudentEntity extends BaseEntity{
 
 
     public StudentEntity() {
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
     }
 
     public String getName() {

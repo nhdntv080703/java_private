@@ -6,10 +6,6 @@ import javax.persistence.*;
 @Table(name = "phone")
 public class PhoneEntity extends BaseEntity{
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-
     @Column
     private String name;
 
@@ -27,14 +23,6 @@ public class PhoneEntity extends BaseEntity{
         this.name = name;
         this.brand = brand;
         this.student = studentEntity;
-    }
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
     }
 
     public String getName() {

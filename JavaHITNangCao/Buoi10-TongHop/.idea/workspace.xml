@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="819bba38-ca3c-41e2-bdae-97ee398d0f54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_cloudinary_cloudinary_core_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_cloudinary_cloudinary_http44_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi10-TongHop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/CategoryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/ProductAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/RoleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/UserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/config/ConfigCloudinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/CategoryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/ProductConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/RoleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/CategoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/RoleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/UserRepositoty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/utils/UploadFileCloudinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/artifacts/demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_cloudinary_cloudinary_core_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_cloudinary_cloudinary_http44_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_modelmapper_modelmapper_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/api/CategoryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/api/ProductAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/api/RoleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/api/UserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/config/ConfigCloudinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/config/ModelMapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/constant/SystemConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/controlleradvice/ControllerAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/converter/CategoryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/converter/ProductConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/converter/RoleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/converter/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/customexception/FileRequiredxception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/dto/CategoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/dto/ErrorResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/dto/RoleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/entity/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/repository/UserRepositoty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/utils/MapUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/utils/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/src/main/java/com/example/demo/utils/UploadFileCloudinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/config/CustomSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/config/ModelMapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/config/SecurityUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/constant/SystemConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/src/main/java/com/example/demo/dto/MyUserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_2_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/config/ModelMapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/controller/UserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/converter/RoleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/converter/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/dto/RoleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/dto/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/service/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/service/impl/CustomUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/service/impl/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/service/impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__com_cloudinary_cloudinary_core_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__com_cloudinary_cloudinary_http44_1_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/Dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/config/ConfigCloudinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/src/main/java/com/example/demo/utils/UploadFileCloudinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/artifacts/demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_4_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_4_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_orm_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_orm_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_test_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_test_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_tx_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_tx_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_web_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_web_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi10/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi5/src/main/resources/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/DemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/api/UserAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/converter/UserConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/dto/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/entity/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/entity/UserEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/exception/AlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/exception/CustomExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/exception/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi5/target/classes/com/example/demo/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/artifacts/demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/PhoneEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/PhoneEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/StudentEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/StudentEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/SubjectEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/java/com/example/demo/entity/SubjectEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/src/main/resources/templates/about1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/src/main/resources/templates/regist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/PhoneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/PhoneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/SubjectController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/controller/SubjectController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/PhoneEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/PhoneEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/StudentEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/StudentEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/SubjectEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Buoi6/target/classes/com/example/demo/entity/SubjectEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi6/target/classes/templates/about1.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2045755267">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="73" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="73" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="java" value="1424" />
+          <entry key="properties" value="31" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1424" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Properties" value="31" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/ProductAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/ServletInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="121" column="12" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="121" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/utils/UploadFileCloudinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/RoleDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/config/ConfigCloudinary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/CategoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/UserRepositoty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/RoleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/CategoryConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/ProductConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/RoleConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/UserConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/ProductEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/CategoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/RoleEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/utils/UploadFileCloudinary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/ProductDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/ProductAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/ServletInitializer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Buoi10-TongHop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi10-TongHop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Buoi10-TongHop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi10-TongHop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Buoi10-TongHop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi10-TongHop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Buoi10-TongHop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi10-TongHop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Buoi10-TongHop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Buoi10-TongHop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="laptrinhjavaweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1684753494611" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Buoi8-uploadFile" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laptrinhjavaweb" />
+      <recent name="com.laptrinhjavaweb.utils" />
+      <recent name="com.laptrinhjavaweb.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_private\JavaHITNangCao\Buoi10-TongHop\src\main\java\com\laptrinhjavaweb\service\impl" />
+      <recent name="D:\java_private\JavaHITNangCao\Buoi10-TongHop" />
+      <recent name="D:\java_private\JavaHITNangCao\Buoi10-TongHop\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laptrinhjavaweb.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Buoi10-TongHop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="819bba38-ca3c-41e2-bdae-97ee398d0f54" name="Default Changelist" comment="" />
+      <created>1684734331968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684734331968</updated>
+      <workItem from="1684734336782" duration="9491000" />
+      <workItem from="1684752304693" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10391000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/filter/BuildingFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/ErrorResponseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/customexception/FileRequiredxception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/builder/BuildingSearchBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/RoleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/CategoryDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/config/ConfigCloudinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/controlleradvice/ControllerAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/AbstractRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/config/ModelMapperConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/CategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/repository/UserRepositoty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/UserAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/RoleAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/CategoryAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/CategoryConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/ProductConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/RoleConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/converter/UserConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.13.RELEASE/spring-web-5.0.13.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/ProductEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/CategoryEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/RoleEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/dto/ProductDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/utils/UploadFileCloudinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/api/ProductAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="121" column="12" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="121" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Buoi10-TongHop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
