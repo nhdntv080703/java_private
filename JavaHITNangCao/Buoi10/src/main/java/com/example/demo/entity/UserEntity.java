@@ -14,13 +14,13 @@ public class UserEntity extends BaseEntity{
     @Column(nullable = false)
     private String fullName;
 
-    @Column(nullable = false)
+    @Column
     private String address;
 
     @Column(nullable = false)
     private String email;
 
-    @Column(nullable = false)
+    @Column
     private Date birthday;
 
     @Column(nullable = false, unique = true)
