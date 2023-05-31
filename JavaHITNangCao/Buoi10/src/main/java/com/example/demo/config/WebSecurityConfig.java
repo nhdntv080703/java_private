@@ -30,20 +30,17 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     private final AuthenticationEntryPoint authEntryPointJWT;
     private final UserDetailServiceImp userDetailServiceImp;
+    private final AuthTokenFilter authTokenFilter;
 
-    public WebSecurityConfig(AuthenticationEntryPoint authEntryPointJWT, UserDetailServiceImp userDetailServiceImp) {
+    public WebSecurityConfig(AuthenticationEntryPoint authEntryPointJWT, UserDetailServiceImp userDetailServiceImp, AuthTokenFilter authTokenFilter) {
         this.authEntryPointJWT = authEntryPointJWT;
         this.userDetailServiceImp = userDetailServiceImp;
+        this.authTokenFilter = authTokenFilter;
     }
 
     @Bean
     public UserDetailsService userDetailsService() {
         return new UserDetailServiceImp();
-    }
-
-    @Bean
-    public AuthTokenFilter authTokenFilter() {
-        return new AuthTokenFilter();
     }
 
     @Override
@@ -57,7 +54,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .anyRequest().permitAll()
                 .and()
                 //UsernamePasswordAuthenticationFilter : bộ lọc mặc định của Spring Boot
-                .addFilterBefore(authTokenFilter(), UsernamePasswordAuthenticationFilter.class)//Giai thich
+                .addFilterBefore(authTokenFilter, UsernamePasswordAuthenticationFilter.class)//Giai thich
                 .csrf().disable()//1 loại tấn công bảo mật sử dụng yêu cầu từ trang web khác
                 .cors().disable();//Chính sách bảo mật trong tình duyệt web kiểm soat chia sẻ tài nguyên giữua các nguôn
 

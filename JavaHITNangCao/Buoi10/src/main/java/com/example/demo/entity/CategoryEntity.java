@@ -2,15 +2,11 @@ package com.example.demo.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 import javax.persistence.*;
 import java.util.List;
 
-@Getter
-@Setter
 @Entity
 @Table(name = "category")
 @AllArgsConstructor
@@ -24,7 +20,7 @@ public class CategoryEntity extends BaseEntity {
     private String description;
 
     @JsonIgnore
-    @OneToMany(mappedBy = "category", fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "category")
     private List<ProductEntity> productEntities;
 
     public String getCategoryName() {

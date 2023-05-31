@@ -24,8 +24,9 @@ public class ProductEntity  {
     private String description;
 
     @ManyToOne
-    @JoinColumn(name = "categoryid")
+    @JoinColumn(name = "category_id", foreignKey = @ForeignKey(name = "FK_PRODUCT_CATEGORY"))
     private CategoryEntity category;
+
 
     public Long getId() {
         return id;
@@ -34,6 +35,7 @@ public class ProductEntity  {
     public void setId(Long id) {
         this.id = id;
     }
+
     public String getProductName() {
         return productName;
     }

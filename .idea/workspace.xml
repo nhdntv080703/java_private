@@ -1,16 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6694d80d-4ade-422e-9aa6-d4852637c75d" name="Default Changelist" comment="" />
+    <list default="true" id="6694d80d-4ade-422e-9aa6-d4852637c75d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_cloudinary_cloudinary_core_1_29_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_cloudinary_cloudinary_http44_1_29_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_18_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_modelmapper_modelmapper_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_aop_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_beans_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_context_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_core_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_expression_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_orm_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_test_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_tx_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_web_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/Buoi10-TongHop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/spring-boot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/api/CategoryAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/api/ProductAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/api/RoleAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/api/UserAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/config/ConfigCloudinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/config/ModelMapperConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/constant/SystemConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/controlleradvice/ControllerAdvisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/converter/CategoryConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/converter/ProductConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/converter/RoleConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/converter/UserConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/customexception/FileRequiredxception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/dto/CategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/dto/ErrorResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/dto/ProductDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/dto/RoleDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/entity/CategoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/entity/ProductEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/entity/RoleEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/entity/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/repository/UserRepositoty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/utils/ConnectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/utils/MapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/utils/NumberUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/utils/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/java/com/laptrinhjavaweb/utils/UploadFileCloudinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10-TongHop/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_11_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_orm_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_15_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/CategoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/CategoryEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/RoleEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/java/com/example/demo/entity/RoleEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/CategoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/CategoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/ProductEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/ProductEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/RoleEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/RoleEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHITNangCao/Buoi10/target/classes/com/example/demo/entity/UserEntity.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="242030031">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="955" />
+  </component>
   <component name="ProjectId" id="2IZiTR2vGUn1uC2ScB2SQ0ENNPz" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,9 +255,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BaiBuoi6-7" />
+    <property name="last_opened_file_path" value="D:/Java-Eclipse/DemoLapTrinhJavaWeb" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6694d80d-4ade-422e-9aa6-d4852637c75d" name="Default Changelist" comment="" />
@@ -33,22 +282,67 @@
       <updated>1670395513853</updated>
       <workItem from="1670395515521" duration="140000" />
       <workItem from="1670395684351" duration="54000" />
+      <workItem from="1685244030867" duration="98000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
 </project>
