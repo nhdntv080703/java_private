@@ -25,8 +25,8 @@
             <td th:text="*{item.getUserName()}"></td>
             <td th:text="*{item.getPassWord()}"></td>
             <td th:text="*{item.getCreatedAt()}"></td>
-            <td th:text="*{item.getUpdatedAt()}"></td>
-            <td>
+            <td th:text="*{item.getUdAt()}"></td>
+            <td>pdate
                 <form th:action="@{/user_put/{id}(id=${item.getId()})}" method="get">
                     <input type="submit" value="UPDATE">
                 </form>
