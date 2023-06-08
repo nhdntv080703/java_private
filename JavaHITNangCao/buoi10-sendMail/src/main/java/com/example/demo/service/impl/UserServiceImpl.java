@@ -64,8 +64,8 @@ public class UserServiceImpl implements UserService {
 
         UserDetailImp userDetailImp = (UserDetailImp) authentication.getPrincipal();
         try {
-            String accessToken = jwtUtils.generateTokenByUsername(userDetailImp.getUsername(), 60000L);
-            String refreshToken = jwtUtils.generateTokenByUsername(userDetailImp.getUsername(), 6000000L);
+            String accessToken = jwtUtils.generateTokenByUsername(userDetailImp.getUsername(), accessTokenMs);
+            String refreshToken = jwtUtils.generateTokenByUsername(userDetailImp.getUsername(), freshTokenMs);
             return ResponseEntity.ok(new UserResponseDTO(
                     userDetailImp.getId(),
                     userDetailImp.getFullName(),
